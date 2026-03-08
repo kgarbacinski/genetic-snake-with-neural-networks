@@ -26,8 +26,5 @@ This project is a self-learning Snake game implemented using a genetic algorithm
 - Generation 70:
   ![Generation 70](imgs/generation_nr_70.png)
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-
 ## License
 This project is licensed under the MIT License.
