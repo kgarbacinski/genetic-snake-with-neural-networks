@@ -1,4 +1,4 @@
-# GeneticAlgo-NN-Snake
+# GeneticAlgo-Neural-Networks-Snake
 
 ## Introduction
 This project is a self-learning Snake game implemented using a genetic algorithm and a custom-built multi-layer neural network.
